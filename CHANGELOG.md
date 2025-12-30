@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/jonas-werner/kargo-argocd-lab-demo-app/compare/0.2.0...0.3.0) (2025-12-30)
+
+
+### Features
+
+* test release-please 3 ([0981b03](https://github.com/jonas-werner/kargo-argocd-lab-demo-app/commit/0981b03723d77aedd079a077f37f1fcc45f4fac0))
+
 ## [0.2.0](https://github.com/jonas-werner/kargo-argocd-lab-demo-app/compare/0.1.0...0.2.0) (2025-12-30)
 
 
