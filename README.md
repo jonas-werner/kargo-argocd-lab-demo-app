@@ -8,5 +8,3 @@ Suggested GitHub repo name:
 Suggested GHCR image name:
 - `ghcr.io/jonas-werner/kargo-argocd-lab-demo-app`
 
-
-
