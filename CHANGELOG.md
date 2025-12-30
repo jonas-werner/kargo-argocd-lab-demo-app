@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.0](https://github.com/jonas-werner/kargo-argocd-lab-demo-app/compare/0.7.0...0.8.0) (2025-12-30)
+
+
+### Features
+
+* add token for image push ([cf5942b](https://github.com/jonas-werner/kargo-argocd-lab-demo-app/commit/cf5942b07a589fceb50841def9052e6938507558))
+* update readme to generate new version ([d528eca](https://github.com/jonas-werner/kargo-argocd-lab-demo-app/commit/d528ecab75bea0d7364411597bc3b0bee27917c2))
+
 ## [0.7.0](https://github.com/jonas-werner/kargo-argocd-lab-demo-app/compare/0.6.0...0.7.0) (2025-12-30)
 
 
